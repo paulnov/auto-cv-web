@@ -1,0 +1,263 @@
+paper_excess_mort:
+  type: published
+  title: "COVID mortality in India: National survey data and health facility deaths"
+  author-web: with Prabhat Jha, Yashwant Deshmukh, Chinmay Tumbe, Wilson Suraweera, Aditi Bhowmick, Sankalp Sharma, Sze Hang Fu, Leslie Newcombe, Hellen Gelband, and Patrick Brown
+  author-cv: Prabhat Jha, Yashwant Deshmukh, Chinmay Tumbe, Wilson Suraweera, Aditi Bhowmick, Sankalp Sharma, Paul Novosad, Sze Hang Fu, Leslie Newcombe, Hellen Gelband, and Patrick Brown
+  emoji: 🦠
+  link: "https://www.science.org/doi/10.1126/science.abm5154"
+  journal: "Science 10.1126/science.abm5154 (2022)"
+  tags: india,health
+
+paper11:
+  type: review
+  title: "Intergenerational Mobility in India: New Methods and Estimates Across Time, Space, and Communities"
+  author-web: with Sam Asher and Charlie Rafkin
+  author-cv: Sam Asher, Paul Novosad, and Charlie Rafkin
+  emoji: ☝
+  link: "http://paulnovosad.com/pdf/anr-india-mobility.pdf"
+  journal: 'Revision requested at AEJ: Applied'
+  tags: india,access,cities
+  extras:
+    note1: '<a href="http://paulnovosad.com/pdf/anr-mobility-online-appendix.pdf">Online Methods Appendix</a>'
+    note2: '<a href="http://paulnovosad.com/pdf/anr-mobility-fact-sheet.pdf">Fact Sheet</a> for media.'
+    note3: '<a href="http://paulnovosad.com/mobility-india.html">All-India mobility map.</a>'
+    note4: '<a href="http://paulnovosad.com/mobility-delhi.html">Interactive Delhi mobility map.</a>'
+    note5: 'Code for generating bottom half mobility (mu-0-50),	all-India town, subdistrict, and district-level local mobility estimates: <a href="https://github.com/devdatalab/paper-anr-mobility-india">github:paper-anr-mobility-india</a>'
+
+paper13:
+  type: review
+  title: "In-group bias in the Indian judiciary: Evidence from 5 million criminal cases"
+  author-web: with Elliott Ash, Sam Asher, Aditi Bhowmick, Sandeep Bhupatiraju, Daniel Chen, Tanaya Devi, Christoph Goessman, and Bilal Siddiqi
+  author-cv: Elliott Ash, Sam Asher, Aditi Bhowmick, Sandeep Bhupatiraju, Daniel Chen, Tanaya Devi, Christoph Goessman, Paul Novosad, and Bilal Siddiqi
+  emoji: ⚖️
+  link: "http://paulnovosad.com/pdf/india-judicial-bias.pdf"
+  tags: india, access, pe
+  extras:
+    note1: '<a href="http://www.devdatalab.org/judicial-bias">Paper summary and open data on 80 million judicial cases in India</a>'
+    note2: '<a href="https://www.hindustantimes.com/opinion/in-india-s-lower-judiciary-the-absence-of-in-group-bias-101610378365396.html">Our op-ed in the Hindustan Times</a>'
+
+paper14:
+  type: progress
+  title: "The Long-run Development Impacts of Agricultural Productivity Gains: Evidence from Irrigation Canals in India"
+  author-web: with Sam Asher, Alison Campion, and Doug Gollin
+  author-cv: Sam Asher, Alison Campion, Doug Gollin, and Paul Novosad
+  emoji: 🐂
+  tags: india, struct, cities
+  link: "http://paulnovosad.com/pdf/acgn-canals.pdf"
+
+paper15:
+  type: progress
+  title: "Unequal Access to Local Public Services in India: Evidence from 1.2m Neighborhoods"
+  author-web: with Anjali Adukia, Sam Asher, Kritarth Jha and Brandon Tan
+  author-cv: Anjali Adukia, Sam Asher, Kritarth Jha, Paul Novosad, and Brandon Tan
+  emoji: 🧱
+  tags: india, access, cities
+  
+paper_mobility_sa:
+  type: progress
+  title: "Intergenerational Mobility Across South Asia"
+  author-web: with Sam Asher
+  author-cv: Sam Asher and Paul Novosad
+  tags: india, pe
+  emoji: ☝
+
+paper_covid_npi:
+  type: published
+  title: "Impacts of regional lockdown policies on COVID-19 transmission in India in 2020"
+  journal: 'Economics and Politics Weekly 57:14 (2022)'
+  author-web: with Aarushi Kalra
+  link: "https://www.epw.in/journal/2022/14/commentary/regional-lockdown-policies-and-covid-19.html"
+  author-cv: Aarushi Kalra and Paul Novosad
+  tags: india, health
+  emoji: 🦠
+
+paper_minec:
+  type: progress
+  title: "Digging for Development: Economic Impacts of Mining Booms"
+  author-web: with Sam Asher
+  author-cv: Sam Asher and Paul Novosad
+  tags: india, pe
+  emoji: 💎
+
+paper12:
+  type: review
+  title: "Moment Forests"
+  author-web: with Denis Nekipelov and Stephen P. Ryan
+  author-cv: Denis Nekipelov, Paul Novosad, and Stephen P. Ryan
+  emoji: 🌴
+  tags: misc
+  journal: NBER Working Paper No. 22976
+  link: "http://paulnovosad.com/pdf/nnr-moment-forests.pdf"
+
+paper17:
+  type: hold
+  title: "Adaptive Control of COVID-19 Outbreaks in India: Local, Gradual, and Trigger-based Exit Paths from Lockdown"
+  author-web: with with Anup Malani et al.
+  author-cv: Anup Malani, Paul Novosad, et al.
+  tags: india, health, cities
+  emoji: 🦠
+  link: "https://www.nber.org/system/files/working_papers/w27532/w27532.pdf"
+
+paper_policyforum_bigdata:
+  type: published
+  title: "Big, Open Data for Development: A Vision for India"
+  author-web: with Sam Asher, Aditi Bhowmick, Alison Campion, and Tobias Lunt
+  author-cv: Sam Asher, Aditi Bhowmick, Alison Campion, Tobias Lunt, Paul Novosad
+  emoji: 📊
+  journal: India Policy Forum (2021, not peer reviewed)
+  year: 2021
+  tags: india
+  link: "https://www.ncaer.org/Events/IPF-2021/Paper/Paper-I-Sam%20Aditi%20Alison%20Johns-Conference-Version-IPF-2021.pdf"
+
+paper1:
+  type: published
+  title: "Rent-Seeking and Criminal Politicians: Evidence from Mining Booms"
+  author-web: with Sam Asher
+  author-cv: Sam Asher, Paul Novosad
+  emoji: 💎
+  journal: Forthcoming at Review of Economics and Statistics
+  year: 2021
+  tags: india, pe
+  extras:
+    note1: "<a href='https://github.com/devdatalab/paper-an-mining-politics'>Replication Repo</a>"
+  link: "http://paulnovosad.com/pdf/asher-novosad-mining-politics.pdf"
+
+paper10:
+  type: published
+  title: "Mortality Change Among Less Educated Americans"
+  author-web: with Charlie Rafkin and Sam Asher
+  author-cv: Paul Novosad,  Charlie Rafkin, and Sam Asher
+  emoji: 💀
+  journal: 'Forthcoming at AEJ: Applied'
+  year: 2021
+  tags: health
+  link: "http://paulnovosad.com/pdf/nra-mortality.pdf"
+  extras:
+    note1: 'Replication/methods code: <a href="https://github.com/devdatalab/paper-nra-mortality">github:paper-nra-mortality</a>'
+
+paper2:
+  type: published
+  title: "Development Research at High Geographic Resolution: An Analysis of Night Lights, Firms, and Poverty in India using the SHRUG Open Data Platform"
+  author-web: AKA the SHRUG paper, with Sam Asher, Toby Lunt, and Ryu Matsuura
+  author-cv: "Sam Asher, Toby Lunt, Ryu Matsuura, Paul Novosad"
+  emoji: 🛰
+  journal: World Bank Economic Review 35:4 (2021)
+  year: 2021
+  tags: india, cities
+  extras:
+    note1: "<a href='http://paulnovosad.com/pdf/almn-shrug-appendix.pdf'>Paper Appendix</a>"
+    note2: "<a href='http://paulnovosad.com/pdf/shrug-codebook.pdf'>SHRUG Codebook</a>"
+    note3: "<a href='http://www.devdatalab.org/shrug'>Download the SHRUG</a>"
+  link: "http://paulnovosad.com/pdf/almn-shrug.pdf"
+
+paper9:
+  type: published
+  title: "Representative Estimates of COVID-19 Infection Fatality Rates from Four Locations in India"
+  author-web: with Rebecca Cai, Vaidehi Tandel, Sam Asher, and Anup Malani
+  author-cv: Rebecca Cai, Paul Novosad, Vaidehi Tandel, Sam Asher, and Anup Malani
+  emoji: 🦠
+  journal: "BMJ Open 9:1 (2021)"
+  tags: india, health
+  year: 2021
+  link: "https://bmjopen.bmj.com/content/bmjopen/11/10/e050920.full.pdf"
+
+paper3:
+  type: published
+  title: "Rural Roads and Local Economic Development"
+  author-web: with Sam Asher
+  author-cv: Sam Asher, Paul Novosad
+  emoji: 🚛
+  journal: American Economic Review 110:3 (2020)
+  tags: india, struct, econ, cities
+  year: 2020
+  link: "http://paulnovosad.com/pdf/asher-novosad-roads.pdf"
+
+paper5:
+  type: published
+  title: "Educational Investment Responses to Economic Opportunity: Evidence from Indian Road Construction"
+  author-web: with Anjali Adukia and Sam Asher
+  author-cv: Anjali Adukia, Sam Asher, and Paul Novosad
+  emoji: 📖
+  journal: "AEJ: Applied 12:1 (2020)"
+  tags: india, access, struct, cities
+  year: 2020
+  link: "http://paulnovosad.com/pdf/adukia-asher-novosad-dise-roads.pdf"
+
+paper6:
+  type: published
+  title: "The Ecological Footprint of Transportation Infrastructure"
+  author-web: with Sam Asher and Teevrat Garg
+  author-cv: Sam Asher, Teevrat Garg, and Paul Novosad
+  emoji: 🌲
+  journal: Economic Journal 130:629 (2020)
+  tags: india, struct
+  year: 2020
+  link: "http://paulnovosad.com/pdf/agn-roads-forests.pdf"
+
+paper4:
+  type: published
+  title: "COVID-19 mortality effects of underlying health conditions in India: a modelling study"
+  author-web: with Radhika Jain, Alison Campion, and Sam Asher
+  author-cv: Paul Novosad, Radhika Jain, Alison Campion, and Sam Asher
+  emoji: 🦠
+  journal: BMJ Open 10:e043165 (2020)
+  tags: india, health
+  year: 2020
+  link: "https://bmjopen.bmj.com/content/10/12/e043165.info"
+
+paper7:
+  type: published
+  title: "Who Runs the International System? Nationality and Leadership in the United Nations Secretariat"
+  author-web: with Eric Werker
+  author-cv: Paul Novosad and Eric Werker
+  emoji: 🇸🇪
+  journal: The Review of International Organizations 14:1 (2019)
+  year: 2019
+  link: "http://paulnovosad.com/pdf/novosad-werker-un.pdf"
+  tags: misc
+  extras:
+    note1: <a href="http://paulnovosad.com/data/novosad-werker-replication-files.zip">Replication files and data</a> on nationality of senior UN staff (1947-2013).
+    note2: <a href="http://paulnovosad.com/pdf/unsec-appendix-roio.pdf">Online Appendix.</a>
+
+paper8:
+  type: published
+  title: "Politics and Local Economic Growth: Evidence from India"
+  author-web: with Sam Asher
+  author-cv: Sam Asher and Paul Novosad
+  emoji: 🗳
+  journal: "AEJ: Applied 9:1 (2017)"
+  year: 2017
+  link: "http://paulnovosad.com/pdf/asher-novosad-politicians.pdf"
+  tags: india, pe
+  extras:
+    note1: '<a href="https://www.aeaweb.org/articles?id=10.1257/app.20150512">Replication code and data</a> posted at AEJ:Applied.'
+
+paper18:
+  type: hold
+  title: "The Impacts of Local Control over Political Institutions: Evidence from State Splitting in India"
+  author-web: with Sam Asher
+  author-cv: Sam Asher and Paul Novosad
+  tags: india, pe
+  emoji: 🗺
+  link: "http://paulnovosad.com/pdf/asher-novosad-borders.pdf"
+
+paper19:
+  type: retired
+  title: "Getting Signal from Interval Data: Theory and Applications to Mortality and Intergenerational Mobility"
+  author-web: with Sam Asher and Charlie Rafkin
+  author-cv: Sam Asher, Paul Novosad and Charlie Rafkin
+  emoji: ➰
+  tags: misc
+  link: "http://paulnovosad.com/pdf/asher-novosad-rafkin-bounds.pdf"
+  extras:
+    note1: 'This methods paper has been integrated into the <a href="http://paulnovosad.com/pdf/nra-mortality.pdf">mortality</a> and <a href="http://paulnovosad.com/pdf/anr-india-mobility.pdf">mobility</a> papers above and retired.'
+
+paper_distance_cost:
+  type: hold
+  title: "The Cost of Distance: Geography and Governance in Rural India"
+  author-web: with Sam Asher and Karan Nagpal
+  author-cv: Sam Asher, Karan Nagpal and Paul Novosad
+  tags: india, access, pe
+  emoji: 🛩️
+  link: ""
+

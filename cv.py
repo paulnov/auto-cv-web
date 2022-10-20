@@ -18,7 +18,6 @@ section_footer_cv = ''' \\end{enumerate}
  \\vspace{-16pt}
 '''
 
-
 template_paper = '''<tr class="paper" data-tags="$$tags$$">
 <td class="emoji"><div class="emoji">$$emoji$$</div></td>
 <td class="paper">

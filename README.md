@@ -35,7 +35,27 @@ paper11:
 $$$PAPERLIST$$$
 ```
 
-3. Run `python cv.py`, and it will replace `$$PAPERLIST$$` with the information from all your papers.
+3. Run `python cv.py`, and it will replace `$$PAPERLIST$$` with the information from all your papers. Constants inside `cv.py` will determine which fields are displayed and how you want them displayed, e.g.
 
-4. When you want to add / modify a paper entry, just edit the YAML and re-run `cv.py`.
+```
+template_paper = '''<tr class="paper" data-tags="$$tags$$">
+<td class="emoji"><div class="emoji">$$emoji$$</div></td>
+<td class="paper">
+  <p class="research">
+    <strong><a href="$$link$$">$$title$$</a></strong>
+    ($$author-web$$) <br /> 
+    $$journal$$ <br />
+    %%extras%%
+  </p>
+</td></tr>'''
+```
 
+4. Now you can modify your CV and web site in about 20 seconds. Just edit the YAML file and re-run `cv.py`.
+
+# How to use this
+
+1. Copy your existing web site into `index-template.html`. Replace the list of papers with the string `$$PAPERLIST$$`. Edit the `template_paper` string in `cv.py` so it looks like the code for your web site.
+
+2. Same thing for your CV. Use the existing CV template `cv-template.tex` or paste in your own latex into `cv-template.tex`, with the same placeholder `$$PAPERLIST$$`. If you changed the template, edit the string list in `cv.py`.
+
+3. Modify the other string lists in `cv.py` to match your circumstances, e.g. the categories, the journals you want italicized, etc.
